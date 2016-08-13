@@ -1,0 +1,7 @@
+{
+    "name": "Unity",
+    "version": "0.0.1",
+    "author": "Aaron Heise <aaron@hizlabs.com>",
+    "license": "MIT",
+    "description": "Lightweight unit testing"
+}
